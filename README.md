@@ -4,7 +4,7 @@
 <tr>
 <td width="60%" valign="top">
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode" />
