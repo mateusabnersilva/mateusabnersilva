@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Mateus Abner
+# Olá! 👋 :)
 
 <table>
 <tr>
@@ -7,7 +7,7 @@
 ## 🚀 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,html,css" />
 </p>
 
 </td>
@@ -15,6 +15,10 @@
 <td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/jUckyQVjuHNx9vXUtv/giphy.gif" width="320"/>
+
+<br><br>
+
+<i>"Courage is found in unlikely places."</i>
 
 </td>
 </tr>
