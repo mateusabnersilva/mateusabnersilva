@@ -7,7 +7,7 @@
 ## 🚀 Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,vscode,virtualbox" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,vscode" />
 </p>
 
 </td>
